@@ -1,0 +1,208 @@
+﻿  stdafx.cpp
+  Application.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\application.cpp(13): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\application.cpp(62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\application.cpp(63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Button.cpp
+  c:\users\office_1\source\repos\rpg\boost_1_74_0\boost_1_74_0\boost\function_output_iterator.hpp(14): note: This header is deprecated. Use <boost/iterator/function_output_iterator.hpp> instead.
+  CAGenerator.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\cagenerator.h(30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\office_1\source\repos\rpg\rpgengine\cagenerator.h(63): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\office_1\source\repos\rpg\rpgengine\cagenerator.h(72): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  GameObject.cpp
+  Input.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\input.cpp(28): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\input.cpp(83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Rule.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  RuleTile.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  RuleTileEditDrawer.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(27): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(29): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  c:\users\office_1\source\repos\rpg\boost_1_74_0\boost_1_74_0\boost\function_output_iterator.hpp(14): note: This header is deprecated. Use <boost/iterator/function_output_iterator.hpp> instead.
+  Scene.cpp
+  ScrollView.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(27): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(29): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.cpp(87): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.cpp(89): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  SpriteOutline.cpp
+  TextureSliceField.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Tile.cpp
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.cpp(90): warning C4244: аргумент: преобразование "uint64_t" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.cpp(97): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+  TileBase.cpp
+  Tilemap.cpp
+  Создание кода...
+sfml-window-d.lib(sfml-window-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR єцх юяЁхфхыхэ т sfml-graphics-d.lib(sfml-graphics-d-2.dll); тЄюЁюх юяЁхфхыхэшх яЁюяє∙хэю
+sfml-window-d.lib(sfml-window-d-2.dll) : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+sfml-system-d.lib(sfml-system-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR єцх юяЁхфхыхэ т sfml-graphics-d.lib(sfml-graphics-d-2.dll); тЄюЁюх юяЁхфхыхэшх яЁюяє∙хэю
+sfml-system-d.lib(sfml-system-d-2.dll) : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+sfml-audio-d.lib(sfml-audio-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR єцх юяЁхфхыхэ т sfml-graphics-d.lib(sfml-graphics-d-2.dll); тЄюЁюх юяЁхфхыхэшх яЁюяє∙хэю
+sfml-audio-d.lib(sfml-audio-d-2.dll) : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+TileBase.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+CAGenerator.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+  RPGEngine.vcxproj -> C:\Users\Office_1\source\repos\RPG\Debug\RPGEngine.lib

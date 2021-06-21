@@ -1,0 +1,204 @@
+{
+    "ruleTile": [
+        {
+            "size": 3,
+            "rule": [
+                "-X-",
+                "XOO",
+                "-OO"
+            ],
+            "tile": {
+                "botLeftX": 192,
+                "botLeftY": 352,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		
+		{
+            "size": 3,
+            "rule": [
+                "-X-",
+                "OOO",
+                "-O-"
+            ],
+            "tile": {
+                "botLeftX": 224,
+                "botLeftY": 352,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		
+		{
+            "size": 3,
+            "rule": [
+                "-X-",
+                "OOX",
+                "OO-"
+            ],
+            "tile": {
+                "botLeftX": 256,
+                "botLeftY": 352,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		
+		{
+            "size": 3,
+            "rule": [
+                "-O-",
+                "XOO",
+                "-O-"
+            ],
+            "tile": {
+                "botLeftX": 192,
+                "botLeftY": 384,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "OOO",
+                "OOO",
+                "OOO"
+            ],
+            "tile": {
+                "botLeftX": 224,
+                "botLeftY": 384,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "-O-",
+                "OOX",
+                "-O-"
+            ],
+            "tile": {
+                "botLeftX": 256,
+                "botLeftY": 384,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "-OO",
+                "XOO",
+                "-X-"
+            ],
+            "tile": {
+                "botLeftX": 192,
+                "botLeftY": 416,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "-O-",
+                "OOO",
+                "-X-"
+            ],
+            "tile": {
+                "botLeftX": 224,
+                "botLeftY": 416,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "OO-",
+                "OOX",
+                "-X-"
+            ],
+            "tile": {
+                "botLeftX": 256,
+                "botLeftY": 416,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		
+		
+	    {
+            "size": 3,
+            "rule": [
+                "XO-",
+                "OO-",
+                "---"
+            ],
+            "tile": {
+                "botLeftX": 256,
+                "botLeftY": 320,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "-OX",
+                "-OO",
+                "---"
+            ],
+            "tile": {
+                "botLeftX": 224,
+                "botLeftY": 320,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+			    {
+            "size": 3,
+            "rule": [
+                "---",
+                "OO-",
+                "XO-"
+            ],
+            "tile": {
+                "botLeftX": 256,
+                "botLeftY": 288,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        },
+		{
+            "size": 3,
+            "rule": [
+                "---",
+                "-OO",
+                "-OX"
+            ],
+            "tile": {
+                "botLeftX": 224,
+                "botLeftY": 288,
+                "topRightX": 32,
+                "topRightY": 32,
+                "texture": "C:\\Users\\Office_1\\source\\repos\\RPG\\Resources\\main.png"
+            }
+        }
+    ]
+}

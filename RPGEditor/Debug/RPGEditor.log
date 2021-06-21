@@ -1,0 +1,68 @@
+﻿  pch.cpp
+  RPGEditor.cpp
+  c:\users\office_1\source\repos\rpg\boost_1_74_0\boost_1_74_0\boost\function_output_iterator.hpp(14): note: This header is deprecated. Use <boost/iterator/function_output_iterator.hpp> instead.
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(27): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(29): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  c:\users\office_1\source\repos\rpg\boost_1_74_0\boost_1_74_0\boost\bind.hpp(41): note: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  TilesContainer.cpp
+  c:\users\office_1\source\repos\rpg\boost_1_74_0\boost_1_74_0\boost\function_output_iterator.hpp(14): note: This header is deprecated. Use <boost/iterator/function_output_iterator.hpp> instead.
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(27): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\scrollview.h(29): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(80): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(82): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(84): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\office_1\source\repos\rpg\rpgengine\tile.h(86): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  RPGEditor.vcxproj -> C:\Users\Office_1\source\repos\RPG\Debug\RPGEditor.exe
